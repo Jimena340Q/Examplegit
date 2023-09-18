@@ -5,6 +5,8 @@
 """
 import random
 
+print("Número aleatrorio entre 1 y 10")
+
 random_number = random.randint(1, 10) #Genera un numero aleatrotio entre (randint)
 print(random_number)
 
